@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.2
+
+- Fixed deprecated `withOpacity` usage — replaced with `withValues()` to avoid precision loss.
+- Updated package description to meet pub.dev length guidelines.
+
 ## 1.0.1
 
 - Added demo video to showcase the package in action.
