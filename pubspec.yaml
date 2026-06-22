@@ -1,0 +1,32 @@
+name: keyboard_actions_bar
+description: >
+  A fully customizable keyboard toolbar for Flutter — Done / Next / Prev / Clear /
+  InsertAt / Custom actions above the soft keyboard. Zero FocusNode boilerplate,
+  tap-outside dismiss, custom keyboard panels, Material 3 themed, dark mode aware.
+
+version: 1.0.0
+homepage: https://github.com/HeshanPravintha/keyboard_actions_bar
+repository: https://github.com/HeshanPravintha/keyboard_actions_bar
+issue_tracker: https://github.com/HeshanPravintha/keyboard_actions_bar/issues
+
+topics:
+  - keyboard
+  - form
+  - toolbar
+  - input
+  - material
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.16.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
