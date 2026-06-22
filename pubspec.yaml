@@ -4,7 +4,7 @@ description: >
   InsertAt / Custom actions above the soft keyboard. Zero FocusNode boilerplate,
   tap-outside dismiss, custom keyboard panels, Material 3 themed, dark mode aware.
 
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/HeshanPravintha/keyboard_actions_bar
 repository: https://github.com/HeshanPravintha/keyboard_actions_bar
 issue_tracker: https://github.com/HeshanPravintha/keyboard_actions_bar/issues
