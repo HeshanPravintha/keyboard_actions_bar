@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/HeshanPravintha/keyboard_actions_bar/blob/main/screenshots/Keyboard_Actions_Bar_Demo.gif" alt="keyboard_actions_bar demo" />
+  <img src="https://raw.githubusercontent.com/HeshanPravintha/keyboard_actions_bar/main/screenshots/Keyboard_Actions_Bar_Demo.gif" alt="keyboard_actions_bar demo" />
 </p>
 
 ## Key Features
