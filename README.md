@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HeshanPravintha/keyboard_actions_bar/main/screenshots/example.gif" alt="keyboard_actions_bar demo" />
+  <img src="https://github.com/HeshanPravintha/keyboard_actions_bar/blob/main/screenshots/Keyboard_Actions_Bar_Demo.gif" alt="keyboard_actions_bar demo" />
 </p>
 
 ## Key Features
@@ -57,27 +57,6 @@
 * Samsung / OEM keyboard fix — deferred focus-loss prevents IME bounce bugs
 * Android `adjustResize` support — works with the default Flutter manifest
 
-<br>
-<table>
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/HeshanPravintha/keyboard_actions_bar/main/screenshots/done_next_prev.png" alt="Done Next Prev" width="300" />
-      <br><br>
-      <img src="https://raw.githubusercontent.com/HeshanPravintha/keyboard_actions_bar/main/screenshots/insert_clear.png" alt="InsertAt Clear" width="300" />
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/HeshanPravintha/keyboard_actions_bar/main/screenshots/footer_counter.gif" alt="Footer counter" width="300" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/HeshanPravintha/keyboard_actions_bar/main/screenshots/custom_panel.gif" alt="Custom keyboard panel" width="300" />
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/HeshanPravintha/keyboard_actions_bar/main/screenshots/tap_outside.gif" alt="Tap outside dismiss" width="300" />
-    </td>
-  </tr>
-</table>
 
 ## Installation
 
