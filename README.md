@@ -62,7 +62,7 @@
 
 ```yaml
 dependencies:
-  keyboard_actions_bar: ^1.0.0
+  keyboard_actions_bar: ^1.0.2
 ```
 
 ```bash
